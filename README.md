@@ -2,6 +2,7 @@
 formBaskettelkom23=4
 
 Penjelasan aplikasi = saya membuat aplikasi android berbentuk formulir pendaftaran , disini saya membuat form pendaftaran telkom school basketball club (T.S.B.C) , terpapang logo buatan saya sendiri yaitu acnologia 
+sempat error github karena kesalahn di android studio , lalu saya menemukan solusinya yaitu menggunakan git bash manual 
 
 SCREENSHOOT !
 
