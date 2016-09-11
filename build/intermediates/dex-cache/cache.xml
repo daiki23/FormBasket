@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_9b1082f2facab875a65ce79f1557f5af998e2ab3.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_7e688573e5aa545fb3e1d2cbf37558cc9b3a0452.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_f5671b76b1ecaab46b6210f76862e8a334b332c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_0d93cd0338c2ea925069e858a4bf388a1664e945.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_f971b2cf452a893796cce4b97978931cd1ac541c.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="46014cb32c51a33eca6d437b1360871b69c6efc3">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0ecde1eae46137095559a654bb96c99d5d8c7d82.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_103fc20de0bea108e2570144c6e9dacbc93fa288.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_e3b232a1ae5948be5351f722696b4a0b877600e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_1fe002b141d8de4cc6e54d2fe4d09982018b8e41.jar" />
+    </item>
+    <item
+        jar="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="589547dec4ecc945a2d261eaa04c9b0a5ed59bf9">
+        <dex dex="C:\Users\daiki\AndroidStudioProjects\ProjekTugas\app\build\intermediates\pre-dexed\debug\instant-run_8d114a2a809ea7150be76deb148c2e44c199967e.jar" />
+    </item>
+
+</items>
